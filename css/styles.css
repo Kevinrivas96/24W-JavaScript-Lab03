@@ -9,6 +9,8 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	/* transition: all 1s; */
+	background-color: #1b1b32;
+	color: #fff;
 }
 
 table {
